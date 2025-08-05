@@ -12,8 +12,8 @@ Welcome to the AI Alignment Debugging Suite! This guide will help you get up and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/ai-alignment-debugging-suite.git
-   cd ai-alignment-debugging-suite
+   git clone https://github.com/boneheadfinding-eng/Alignment-Debugging-Suite.git
+   cd alignment-debugging-suite
    ```
 
 2. **Create a virtual environment**
@@ -107,7 +107,6 @@ evaluation:
 
 ### Getting Help
 
-- Check the [FAQ](faq.md)
 - Open an issue on GitHub
 - Contact the maintainers
 

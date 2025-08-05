@@ -14,8 +14,8 @@ Thank you for your interest in contributing to the AI Alignment Debugging Suite!
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/ai-alignment-debugging-suite.git
-cd ai-alignment-debugging-suite
+git clone https://github.com/boneheadfinding-eng/Alignment-Debugging-Suite.git
+cd alignment-debugging-suite
 
 # Create virtual environment
 python -m venv venv

@@ -22,8 +22,8 @@ The AI Alignment Debugging Suite provides researchers and developers with tools 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/ai-alignment-debugging-suite.git
-cd ai-alignment-debugging-suite
+git clone https://github.com/boneheadfinding-eng/Alignment-Debugging-Suite.git
+cd alignment-debugging-suite
 ```
 
 2. Create a virtual environment:
@@ -93,6 +93,6 @@ If you use this toolkit in your research, please cite:
 @software{ai_alignment_debugging_suite,
   title = {AI Alignment Debugging Suite},
   year = {2024},
-  url = {https://github.com/your-org/ai-alignment-debugging-suite}
+  url = {https://github.com/boneheadfinding-eng/Alignment-Debugging-Suite}
 }
 ```

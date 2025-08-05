@@ -1,4 +1,4 @@
-# AI Alignment Debugging Suite - Self-Check Report
+# Alignment Debugging Suite - Self-Check Report
 
 ## Project Overview
 The AI Alignment Debugging Suite has been successfully optimized and restructured. This report summarizes the improvements made and validates the project integrity.
@@ -18,7 +18,7 @@ The AI Alignment Debugging Suite has been successfully optimized and restructure
 
 ### Directory Structure
 ```
-AI-Alignment-Debugging-Suite-Optimized/
+Alignment-Debugging-Suite/
 ├── src/
 │   ├── __init__.py ✓
 │   ├── adversarial/
